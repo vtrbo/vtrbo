@@ -1,0 +1,28 @@
+{
+  "name": "vtrbo",
+  "version": "0.0.0",
+  "description": "Hi, I'm Victor Bo (vtrbo).",
+  "bugs": "https://github.com/vtrbo/vtrbo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vtrbo/vtrbo"
+  },
+  "funding": "https://github.com/sponsors/sxzz",
+  "license": "MIT",
+  "author": {
+    "name": "Victor Bo",
+    "email": "hi@vtrbo.cn"
+  },
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "vtrbo": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "@vtrbo/eslint-config": "^0.0.7",
+    "open": "^8.4.0"
+  }
+}
