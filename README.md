@@ -13,8 +13,6 @@
 
 #### Project  
 
-<br>
-
 <details>
 <summary>Template Project</summary>  
 
@@ -26,8 +24,6 @@
 | [starter-vitepress](https://github.com/vtrbo/starter-vitepress) | Vitepress Docs Template. |
 
 </details>  
-
-<br>
 
 <details>
 <summary>Package Version</summary>  
@@ -42,8 +38,6 @@
 
 </details>  
 
-<br>
-
 <details>
 <summary>VSCode Extension</summary>  
 
@@ -52,8 +46,6 @@
 | [dot-thing](https://github.com/vtrbo/starter-vscode) | Symbol '.' Triggered Code Input. | [<img src="https://img.shields.io/visual-studio-marketplace/v/vtrbo.dot-thing.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" />](https://marketplace.visualstudio.com/items?itemName=vtrbo.dot-thing) |
 
 </details>  
-
-<br>
 
 - [@vtrbo/utils](https://github.com/vtrbo/utils) - Collection of common JavaScript or TypeScript utils.
 - [load-repo](https://github.com/vtrbo/load-repo) - Download Git Repository Base On Git Clone.
