@@ -16,25 +16,27 @@
 <details>
 <summary>Template Project</summary>  
 
-| Template | Description |
-| --- | --- |
-| [starter-vscode](https://github.com/vtrbo/starter-vscode) | VS Code Extension Template. |
-| [starter-library](https://github.com/vtrbo/starter-library) | TypeScript Library Template. |
-| [starter-unplugin](https://github.com/vtrbo/starter-unplugin) | Unplugin Template. |
-| [starter-vitepress](https://github.com/vtrbo/starter-vitepress) | Vitepress Docs Template. |
+| Template                                                        | Description                       |
+|-----------------------------------------------------------------|-----------------------------------|
+| [starter-library](https://github.com/vtrbo/starter-library)     | Starter Template For NPM Library. |
+| [starter-vitepress](https://github.com/vtrbo/starter-vitepress) | Starter Template For Vitepress.   |
+| [starter-svelte-kit](https://github.com/vtrbo/starter-svelte-kit) | Starter Template For SvelteKit.   |
+| [starter-unplugin](https://github.com/vtrbo/starter-unplugin)   | Starter Template For Unplugin.    |
+| [starter-vscode](https://github.com/vtrbo/starter-vscode)       | Starter Template For VS Code.     |
 
 </details>  
 
 <details>
 <summary>Package Version</summary>  
 
-| Package | Description | Badges |
-| --- | --- | --- |
-| [@vtrbo/eslint-config](https://github.com/vtrbo/eslint-config) | ESLint Config Presets. | [![NPM package](https://img.shields.io/npm/v/@vtrbo/eslint-config.svg)](https://www.npmjs.com/package/@vtrbo/eslint-config) |
-| [@vtrbo/ni](https://github.com/vtrbo/ni) | Package Manager. | [![NPM package](https://img.shields.io/npm/v/@vtrbo/ni.svg)](https://www.npmjs.com/package/@vtrbo/ni) |
-| [@vtrbo/cli](https://github.com/vtrbo/cli) | Tool To Start Project. | [![NPM package](https://img.shields.io/npm/v/@vtrbo/cli.svg)](https://www.npmjs.com/package/@vtrbo/cli) |
-| [@vtrbo/utils](https://github.com/vtrbo/utils) | Collection of common JavaScript or TypeScript utils. | [![NPM package](https://img.shields.io/npm/v/@vtrbo/utils.svg)](https://www.npmjs.com/package/@vtrbo/utils) |
-| [load-repo](https://github.com/vtrbo/load-repo) | Download Git Repository. | [![NPM package](https://img.shields.io/npm/v/load-repo.svg)](https://www.npmjs.com/package/@vtrbo/load-repo) |
+| Package                                                             | Description                 | Badges                                                                                                                         |
+|---------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| [cli](https://github.com/vtrbo/cli)                                 | Tool To Start Project.      | [![NPM package](https://img.shields.io/npm/v/@vtrbo/cli.svg)](https://www.npmjs.com/package/@vtrbo/cli)                        |
+| [utils](https://github.com/vtrbo/utils)                             | Collection of common utils. | [![NPM package](https://img.shields.io/npm/v/@vtrbo/utils.svg)](https://www.npmjs.com/package/@vtrbo/utils)                    |
+| [load-repo](https://github.com/vtrbo/load-repo)                     | Download Git Repository.    | [![NPM package](https://img.shields.io/npm/v/load-repo.svg)](https://www.npmjs.com/package/load-repo)                    |
+| [eslint-config](https://github.com/vtrbo/eslint-config)             | ESLint Config Presets.      | [![NPM package](https://img.shields.io/npm/v/@vtrbo/eslint-config.svg)](https://www.npmjs.com/package/@vtrbo/eslint-config)    |
+| [unplugin-vue-images](https://github.com/vtrbo/unplugin-vue-images) | Download Git Repository.    | [![NPM package](https://img.shields.io/npm/v/unplugin-vue-images.svg)](https://www.npmjs.com/package/unplugin-vue-images)      |
+| [vitepress-plugin-runcode](https://github.com/vtrbo/vitepress-plugins)         | RunCode in vitepress docs.  | [![NPM package](https://img.shields.io/npm/v/vitepress-plugin-runcode.svg)](https://www.npmjs.com/package/vitepress-plugin-runcode) |
 
 </details>  
 
@@ -47,6 +49,3 @@
 
 </details>  
 
-- [@vtrbo/utils](https://github.com/vtrbo/utils) - Collection of common JavaScript or TypeScript utils.
-- [load-repo](https://github.com/vtrbo/load-repo) - Download Git Repository Base On Git Clone.
-- [dot-thing](https://github.com/vtrbo/dot-thing) - Symbol '.' Triggered Code Input In VSCode.
