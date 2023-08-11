@@ -22,7 +22,7 @@
     "index.js"
   ],
   "devDependencies": {
-    "@vtrbo/eslint-config": "^0.0.7",
-    "open": "^8.4.0"
+    "@vtrbo/eslint-config": "^0.3.10",
+    "open": "^8.4.2"
   }
 }
